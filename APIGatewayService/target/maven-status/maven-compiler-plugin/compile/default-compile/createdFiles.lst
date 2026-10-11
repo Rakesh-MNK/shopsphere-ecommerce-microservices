@@ -1,0 +1,2 @@
+com\shop\gateway\APIGatewayServiceApplication.class
+com\shop\gateway\filter\JwtGlobalFilter.class

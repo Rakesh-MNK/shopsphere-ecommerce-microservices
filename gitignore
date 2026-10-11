@@ -1,0 +1,26 @@
+# Maven build output (all 8 services)
+target/
+
+# Compiled files
+*.class
+
+# Logs
+*.log
+logs/
+
+
+
+# Eclipse / STS
+.classpath
+.project
+.settings/
+.factorypath
+.sts4-cache/
+
+
+
+# Local secrets
+.env
+
+# Kafka download (if extracted inside the repo)
+kafka_*/
