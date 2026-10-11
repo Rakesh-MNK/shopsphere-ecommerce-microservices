@@ -34,7 +34,7 @@
 
 ---
 
-## 👔 Project Summary (for Recruiters / HR)
+## 👔 Project Summary 
 
 This project is a **backend system that simulates how a real online shop works**, similar to the backend of Amazon or Flipkart but in a smaller form.
 
