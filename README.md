@@ -472,11 +472,3 @@ Production hardening is **intentionally not included** to keep the project easy 
 
 ---
 
-## 👤 Author
-
-**Your Name**
-💼 LinkedIn: `<your-linkedin-url>`
-🐙 GitHub: `<your-github-url>`
-📧 Email: `<your-email>`
-
-⭐ If you like this project, please give it a star!
