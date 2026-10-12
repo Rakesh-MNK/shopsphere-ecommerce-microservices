@@ -30,7 +30,7 @@
 14. [Testing](#-testing)
 15. [Troubleshooting](#-troubleshooting)
 16. [Production Notes and Future Improvements](#-production-notes-and-future-improvements)
-17. [Author](#-author)
+
 
 ---
 
