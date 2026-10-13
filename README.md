@@ -14,7 +14,7 @@
 
 ## 📌 Table of Contents
 
-1. [Project Summary (for Recruiters / HR)](#-project-summary-for-recruiters--hr)
+1. [Project Summary](#-project-summary)
 2. [Key Features](#-key-features)
 3. [Tech Stack](#-tech-stack)
 4. [Architecture](#-architecture)
